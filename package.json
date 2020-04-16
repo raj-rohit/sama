@@ -1,5 +1,5 @@
 {
-  "name": "components-hero",
+  "name": "@sama/components-hero",
   "version": "0.1.0",
   "main": "dist/hero.umd.js",
   "module": "dist/hero.esm.js",
@@ -39,6 +39,6 @@
     "url": "git+https://github.com/raj-rohit/sama.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@samp"
+    "registry": "https://npm.pkg.github.com/@sama"
   }
 }

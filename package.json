@@ -1,12 +1,7 @@
 {
   "name": "@raj-rohit/components-hero",
-  "version": "0.1.0",
-  "main": "dist/hero.umd.js",
-  "module": "dist/hero.esm.js",
-  "unpkg": "dist/hero.min.js",
-  "browser": {
-    "./sfc": "src/Hero.vue"
-  },
+  "version": "0.1.1",
+  "main": "src/hero.vue",
   "author":"Rohit",
   "files": [
     "dist/*",

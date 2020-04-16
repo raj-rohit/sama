@@ -39,6 +39,6 @@
     "url": "git+https://github.com/raj-rohit/sama.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@sama"
+    "registry": "https://npm.pkg.github.com"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@sama/components-hero",
+  "name": "@raj-rohit/components-hero",
   "version": "0.1.0",
   "main": "dist/hero.umd.js",
   "module": "dist/hero.esm.js",
@@ -7,6 +7,7 @@
   "browser": {
     "./sfc": "src/Hero.vue"
   },
+  "author":"Rohit",
   "files": [
     "dist/*",
     "src/*",
@@ -35,8 +36,7 @@
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10"
   }, "repository": {
-    "type": "git",
-    "url": "git+https://github.com/raj-rohit/sama.git"
+    "url": "git://github.com/raj-rohit/sama.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"

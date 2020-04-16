@@ -1,5 +1,5 @@
 {
-  "name": "components",
+  "name": "components-hero",
   "version": "0.1.0",
   "main": "dist/hero.umd.js",
   "module": "dist/hero.esm.js",
@@ -34,5 +34,8 @@
     "rollup-plugin-vue": "^4.7.2",
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@samp"
   }
 }
